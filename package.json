@@ -1,0 +1,16 @@
+{
+  "name": "cv-mathias-broutin",
+  "version": "1.0.0",
+  "description": "Curriculum Vitae de Mathias Broutin. Géomaticien spécialisé en webmapping et en milieux marins.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CV",
+    "SIG",
+    "géomatique"
+  ],
+  "author": "Mathias Broutin",
+  "license": "ISC"
+}

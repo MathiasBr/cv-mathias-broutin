@@ -219,11 +219,6 @@ h4 {
 	height:1900px;
 }
 
-.project img {
-	width: 80px;
-	position: relative;
-}
-
 .project.fade-in{
 	opacity:1;
 }
@@ -240,37 +235,45 @@ h4 {
 
 #pen3{
 	z-index: 1;
-	position: absolute;	
+	position: relative;	
 }
 
 #pen4{
 	z-index: 20;
-	position: absolute;	
+	position: relative;	
 }
 
 #pen5{
 	z-index: 50;
-	position: absolute;	
+	position: relative;	
+}
+
+#penimg1{
+	width: 80px;
 }
 
 #penimg2{
 	z-index: 20;
-	top: -5px;
+	width: 80px;
+/*	top: -5px;*/
 }
 
 #penimg3{
 	z-index: 1;
-	top: -300px;
+	width: 80px;
+/*	top: -400px;*/
 }
 
 #penimg4{
 	z-index: 20;
-	top: -380px;
+	width: 80px;
+/*	top: -380px;*/
 }
 
 #penimg5{
 	z-index: 50;
-	top: -480px;
+	width: 80px;
+/*	top: -480px;*/
 }
 
 /*#pentext1{

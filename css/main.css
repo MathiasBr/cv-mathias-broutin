@@ -222,7 +222,6 @@ h4 {
 .project img {
 	width: 80px;
 	position: relative;
-	left: 15%;
 }
 
 .project.fade-in{
@@ -241,17 +240,17 @@ h4 {
 
 #pen3{
 	z-index: 1;
-	position: relative;	
+	position: absolute;	
 }
 
 #pen4{
 	z-index: 20;
-	position: relative;	
+	position: absolute;	
 }
 
 #pen5{
 	z-index: 50;
-	position: relative;	
+	position: absolute;	
 }
 
 #penimg2{

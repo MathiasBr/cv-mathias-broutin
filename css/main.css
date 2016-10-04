@@ -222,7 +222,7 @@ h4 {
 	z-index: 40;
 }
 
-#code{
+#pao{
 	position: fixed;
 	margin-top: 300px;
 	top: 50%;
@@ -230,7 +230,7 @@ h4 {
 	z-index: 30;
 }
 
-#codeimg{
+#paoimg{
 	width: 520px;
 	left: 90px;
 	top: 15px;
@@ -238,7 +238,7 @@ h4 {
 	z-index: 30;
 }
 
-#pao{
+#code{
 	position: fixed;
 	margin-top: 300px;
 	top: 50%;
@@ -246,7 +246,7 @@ h4 {
 	z-index: 20;
 }
 
-#paoimg{
+#codeimg{
 	width: 520px;
 	left: 90px;
 	top: 15px;

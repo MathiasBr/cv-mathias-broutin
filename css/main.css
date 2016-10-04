@@ -260,8 +260,7 @@ h4 {
 	height: 1700px;
 }
 
-#slide-1 #pen{
-	width: 80px;
+#pen{
 	height: 646px;
 	position: fixed;
 	margin-top: 300px;
@@ -269,7 +268,8 @@ h4 {
 	left: 25%;
 }
 
-.item {position: absolute;}
+.item {
+	position: absolute;}
 
 #pen1img{
 	position: relative;
@@ -296,79 +296,22 @@ h4 {
 	z-index: 35;
 }
 
-
-
-
-
-
-/*.pen{
-	opacity: 1;
-	position: relative;
-	width: 200px;
-	height:1900px;
-}
-
-
-#pen1{
-	z-index: 10;
-	position: relative;
-}
-
-#pen2{
-	z-index: 20;
-	position: relative;
-}
-
-#pen3{
-	z-index: 1;
-	position: relative;	
-}
-
-#pen4{
-	z-index: 20;
-	position: relative;	
-}
-
-#pen5{
-	z-index: 50;
-	position: relative;	
-}
-
-#penimg1{
-	width: 80px;
-}
-
-#penimg2{
-	z-index: 20;
-	width: 80px;
-/*	top: -5px;*/
-}
-
-/*#penimg3{
-	z-index: 1;
-	width: 80px;*/
-/*	top: -400px;*/
-/*}*/
-
-/*#penimg4{
-	z-index: 20;
-	width: 80px;*/
-/*	top: -380px;*/
-/*}
-
-#penimg5{
-	z-index: 50;
-	width: 80px;*/
-/*	top: -480px;*/
-/*}*/
-
-/*#pentext1{
-	position: relative;
+.pentext{
+	position: absolute;
 	left: 200px;
-	text-align: center;
-
+	width: 800px;
+/*  	white-space: nowrap;
+  	overflow: hidden;*/
 }
-*/
+
+#pentext1{
+	bottom: 70px;
+}
+
+#pentext2{
+	bottom: 200px;
+}
+
 /*CONTACT*/
 #contact{
 }

@@ -290,26 +290,31 @@ h4 {
 
 #pen1img{
 	position: relative;
+	width: 80px;
 	z-index: 50;
 }
 #pen2img{
 	position: relative;
+	width: 80px;
 	bottom: -25px;
 	z-index: 50;
 }
 #pen3img{
 	position: relative;
+	width: 80px;
 	bottom: -100px;
 	z-index: 30;
 }
 #pen4img{
 	position: relative;
-	bottom: -400px;
+	width: 80px;
+	bottom: -450px;
 	z-index: 20;
 }
 #pen5img{
 	position: relative;
-	bottom: -500px;
+	width: 80px;
+	bottom: -535px;
 	z-index: 35;
 }
 

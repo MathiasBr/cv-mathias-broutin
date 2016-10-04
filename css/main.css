@@ -257,7 +257,7 @@ h4 {
 
 /*FORMATION*/
 #formation{
-	height: 1700px;
+	height: 3400px;
 }
 
 #pen{
@@ -304,12 +304,20 @@ h4 {
   	overflow: hidden;*/
 }
 
-#pentext1{
+#pentext2{
 	bottom: 70px;
 }
 
-#pentext2{
+#pentext3{
 	bottom: 200px;
+}
+
+#pentext4{
+	bottom: -230px;
+}
+
+#pentext5{
+	bottom: -360px;
 }
 
 /*CONTACT*/

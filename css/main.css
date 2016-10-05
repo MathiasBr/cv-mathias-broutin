@@ -312,7 +312,7 @@ figure figcaption {
 
 /*FORMATION*/
 #formation{
-	height: 3400px;
+	height: 2800px;
 }
 
 #pen{
@@ -367,15 +367,15 @@ figure figcaption {
 }
 
 #pentext2{
-	bottom: 200px;
+	bottom: -130px;
 }
 
 #pentext3{
-	bottom: -230px;
+	bottom: -550px;
 }
 
 #pentext4{
-	bottom: -360px;
+	bottom: -580px;
 }
 
 /*CONTACT*/

@@ -167,9 +167,24 @@ h4 {
 	margin-right: auto;
 }
 
+#cv{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+}
+
+#textresume p {
+	margin-top: 15px;
+}
+
 /*GS STORY*/
 #video{
 	left: 10%;
+}
+
+#h4gss{
+	margin-top: 50px;
 }
 
 /*COMPETENCES*/

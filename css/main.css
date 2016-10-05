@@ -291,32 +291,30 @@ h4 {
 
 #pen1img{
 	position: relative;
-	width: 80px;
+	width: 70px;
+	bottom: 60px;
 	z-index: 50;
 }
 #pen2img{
 	position: relative;
-	width: 80px;
-	bottom: -25px;
-	z-index: 50;
+	width: 65px;
+	bottom: -200px;
+	left: 2px;
+	z-index: 40;
 }
 #pen3img{
 	position: relative;
-	width: 80px;
-	bottom: -100px;
+	width: 55px;
+	bottom: -510px;
+	left: 7px;
 	z-index: 30;
 }
 #pen4img{
 	position: relative;
-	width: 80px;
-	bottom: -450px;
+	width: 45px;
+	bottom: -580px;
+	left: 11px;
 	z-index: 20;
-}
-#pen5img{
-	position: relative;
-	width: 80px;
-	bottom: -535px;
-	z-index: 35;
 }
 
 .pentext{

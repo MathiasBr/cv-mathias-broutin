@@ -210,6 +210,10 @@ figure figcaption {
 	height: 6000px;
 }
 
+#skills p {
+	margin-top: 15px;
+}
+
 #laptop{
 	position: fixed;
 	margin-top: 300px;
@@ -358,19 +362,19 @@ figure figcaption {
   	overflow: hidden;*/
 }
 
-#pentext2{
-	bottom: 70px;
+#pentext1{
+	bottom: 100px;
 }
 
-#pentext3{
+#pentext2{
 	bottom: 200px;
 }
 
-#pentext4{
+#pentext3{
 	bottom: -230px;
 }
 
-#pentext5{
+#pentext4{
 	bottom: -360px;
 }
 

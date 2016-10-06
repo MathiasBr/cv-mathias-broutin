@@ -53,6 +53,10 @@ h4 {
     margin-bottom: 30px;
 }
 
+.link{
+	color: #303030;
+}
+
 .slideanim {visibility:hidden;}
 .slide {
     /* The name of the animation */
@@ -296,7 +300,14 @@ figure figcaption {
 	position: absolute;
 	left: 800px;
 	width: 800px;
-	bottom: 100px;
+	bottom: -100px;
+}
+
+#skillsqgis{
+	position: absolute;
+	left: 800px;
+	width: 800px;
+	bottom: -100px;
 }
 
 .skillstitle{
@@ -309,6 +320,53 @@ figure figcaption {
 	white-space: nowrap;
   	overflow: hidden;
 }
+
+/*EXPERIENCE PRO*/
+/*.panel {
+    border: 1px solid #2D728F;
+    border-radius:0;
+    transition: box-shadow 0.5s;
+}
+
+.panel:hover {
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
+
+.panel-footer .btn:hover {
+    border: 1px solid #2D728F;
+    background-color: #fff !important;
+    color: #f4511e;
+}
+
+.panel-heading {
+    color: #fff !important;
+    background-color: #2D728F !important;
+    padding: 25px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.panel-footer {
+    background-color: #fff !important;
+}
+
+.panel-footer h3 {
+    font-size: 32px;
+}
+
+.panel-footer h4 {
+    color: #aaa;
+    font-size: 14px;
+}
+
+.panel-footer .btn {
+    margin: 15px 0;
+    background-color: #2D728F;
+    color: #fff;
+}*/
 
 /*FORMATION*/
 #formation{
@@ -378,8 +436,9 @@ figure figcaption {
 	bottom: -580px;
 }
 
-/*CONTACT*/
-#contact{
+/*INFORMATIONS GENERALES*/
+.icone{
+	width: 80px;
 }
 
 

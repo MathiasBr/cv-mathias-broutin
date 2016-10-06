@@ -3,6 +3,7 @@ body {
       font: 400 15px Lato, sans-serif;
       line-height: 1.8;
       color: #818181;
+      overflow-x: hidden;
   }
 
 p {
@@ -322,6 +323,59 @@ figure figcaption {
 }
 
 /*EXPERIENCE PRO*/
+#xppro{
+	height: 2000px;
+}
+
+#fente1{
+	position: relative;
+	height: 500px;
+	left: 1000px;
+	z-index: 80;
+}
+
+#etiquette1{
+	position: relative;
+	height: 300px;
+	left: 800px;
+	bottom: 400px;
+	z-index: 70;
+
+}
+
+#fente2{
+	position: relative;
+	height: 500px;
+	left: -400px;
+	bottom: 500px;
+	z-index: 100;
+}
+
+#etiquette2{
+	position: relative;
+	height: 300px;
+	right: 1000px;
+	bottom: 898px;
+	z-index: 90;
+
+}
+
+#fente3{
+	position: relative;
+	height: 500px;
+	left: 1000px;
+	z-index: 80;
+}
+
+#etiquette3{
+	position: relative;
+	height: 300px;
+	left: 800px;
+	bottom: -200px;
+	z-index: 70;
+
+}
+
 /*.panel {
     border: 1px solid #2D728F;
     border-radius:0;
@@ -439,6 +493,10 @@ figure figcaption {
 /*INFORMATIONS GENERALES*/
 .icone{
 	width: 80px;
+}
+
+.personneltitle{
+	color: #818181;
 }
 
 

@@ -150,6 +150,11 @@ h4 {
     border-radius: 0;
 }
 
+#NavbarAlign{
+	position: relative;
+	left: -100px;
+}
+
 .navbar li a, .navbar .navbar-brand {
     color: #fff !important;
 }
@@ -325,6 +330,37 @@ figure figcaption {
 /*EXPERIENCE PRO*/
 #xppro{
 	height: 1700px;
+}
+
+#myBoxXpPro{
+	width:400px;
+	margin: 0 auto;
+	padding: 10px 0;
+	border: 1px #2D728F solid;
+	background-color: white;
+	color: #2D728F;
+	position: relative;
+	text-align: center;
+	transform: rotateX(-90deg);
+	transform-style: preserve-3d;
+	backface-visibility: hidden;
+}
+
+#myBoxBXpPro{
+	width:400px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	transform-origin: center top;
+	transform: rotateX(-90deg);
+}
+#myBoxBXpPro span{
+	text-align: center;
+	display: block;
+	padding: 10px 0;
+	background-color: #2D728F;
+	color:white;
+	transform: rotateX(180deg);
 }
 
 #fente1{

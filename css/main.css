@@ -324,7 +324,7 @@ figure figcaption {
 
 /*EXPERIENCE PRO*/
 #xppro{
-	height: 2000px;
+	height: 1700px;
 }
 
 #fente1{
@@ -364,15 +364,33 @@ figure figcaption {
 	position: relative;
 	height: 500px;
 	left: 1000px;
-	z-index: 80;
+	bottom: 1000px;
+	z-index: 120;
 }
 
 #etiquette3{
 	position: relative;
 	height: 300px;
 	left: 800px;
-	bottom: -200px;
-	z-index: 70;
+	bottom: 1396px;
+	z-index: 110;
+
+}
+
+#fente4{
+	position: relative;
+	height: 500px;
+	left: -400px;
+	bottom: 1500px;
+	z-index: 140;
+}
+
+#etiquette4{
+	position: relative;
+	height: 300px;
+	right: 1000px;
+	bottom: 1894px;
+	z-index: 130;
 
 }
 

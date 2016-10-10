@@ -447,8 +447,9 @@ figure figcaption {
 
 #pen1img{
 	position: relative;
-	width: 70px;
-	bottom: 60px;
+	width: 230px;
+	right: 48px;
+	bottom: 98px;
 	z-index: 50;
 }
 #pen2img{

@@ -216,7 +216,7 @@ figure figcaption {
 
 /*COMPETENCES*/
 #skills{
-	height: 6000px;
+	height: 7300px;
 }
 
 #skills p {
@@ -299,6 +299,26 @@ figure figcaption {
 	top: 15px;
 	position: relative;
 	z-index: 20;
+}
+
+#english{
+	position: fixed;
+	margin-top: 300px;
+	top: 50%;
+	left: 2%;
+	z-index: 10;
+}
+
+#englishimg{
+	width: 520px;
+	left: 90px;
+	top: 15px;
+	position: relative;
+	z-index: 10;
+}
+
+#englishtext{
+	bottom: 0px;
 }
 
 .skillstext{

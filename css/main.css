@@ -1,15 +1,13 @@
 /*GENERAL*/
 body {
-      width: 100%;
+      width: 90%;
+      margin-right: 5%;
+      margin-left: 5%;
       font: 400 15px Lato, sans-serif;
       line-height: 1.8;
       color: #818181;
       overflow-x: hidden;
   }
-
-#webpage{
-	width: 100%;
-}
 
 p {
 	font-size: 18px;

@@ -216,6 +216,7 @@ figure figcaption {
 
 /*COMPETENCES*/
 #skills{
+	width: 100%;
 	height: 7300px;
 }
 
@@ -348,6 +349,7 @@ figure figcaption {
 
 /*EXPERIENCE PRO*/
 #xppro{
+	width: 100%;
 	height: 1700px;
 }
 
@@ -451,6 +453,7 @@ figure figcaption {
 
 /*FORMATION*/
 #formation{
+	width: 100%;
 	height: 2800px;
 }
 

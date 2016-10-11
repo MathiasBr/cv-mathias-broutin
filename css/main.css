@@ -348,7 +348,6 @@ figure figcaption {
 
 /*EXPERIENCE PRO*/
 #xppro{
-	width: 100%;
 	height: 1700px;
 }
 
@@ -385,67 +384,67 @@ figure figcaption {
 
 #fente1{
 	position: relative;
-	height: 500px;
-	left: 1000px;
+	height: 31.25em;
+	left: 62.5em;
 	z-index: 80;
 }
 
 #etiquette1{
 	position: relative;
-	height: 300px;
-	left: 800px;
-	bottom: 400px;
+	height: 18.75em;
+	left: 50em;
+	bottom: 25em;
 	z-index: 70;
 
 }
 
 #fente2{
 	position: relative;
-	height: 500px;
-	left: -400px;
-	bottom: 500px;
+	height: 31.25em;
+	left: -25em;
+	bottom: 31.25em;
 	z-index: 100;
 }
 
 #etiquette2{
 	position: relative;
-	height: 300px;
-	right: 1000px;
-	bottom: 898px;
+	height: 18.75em;
+	right: 62.5em;
+	bottom: 56.125em;
 	z-index: 90;
 
 }
 
 #fente3{
 	position: relative;
-	height: 500px;
-	left: 1000px;
-	bottom: 1000px;
+	height: 31.25em;
+	left: 62.5em;
+	bottom: 62.5em;
 	z-index: 120;
 }
 
 #etiquette3{
 	position: relative;
-	height: 300px;
-	left: 800px;
-	bottom: 1396px;
+	height: 18.75em;
+	left: 50em;
+	bottom: 87.25em;
 	z-index: 110;
 
 }
 
 #fente4{
 	position: relative;
-	height: 500px;
-	left: -400px;
-	bottom: 1500px;
+	height: 31.25em;
+	left: -25em;
+	bottom: 93.75em;
 	z-index: 140;
 }
 
 #etiquette4{
 	position: relative;
-	height: 300px;
-	right: 1000px;
-	bottom: 1894px;
+	height: 18.75em;
+	right: 62.5em;
+	bottom: 118.375em;
 	z-index: 130;
 
 }

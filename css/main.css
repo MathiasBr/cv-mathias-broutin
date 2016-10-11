@@ -224,6 +224,23 @@ figure figcaption {
     text-align: center;
 }
 
+/*scroll*/
+#scrollimg{
+	width: 18.75em;
+	left: 5.625em;
+	top: 0.875em;
+	position: relative;
+	z-index: 50;
+}
+
+#scrolltext{
+	font-size: 20px;
+	position: relative;
+	text-align: left;
+	top: 50px;
+	width: 500px;
+}
+
 /*COMPETENCES*/
 #skills{
 	height: 7300px;

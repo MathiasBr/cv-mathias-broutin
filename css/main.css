@@ -185,9 +185,14 @@ h4 {
 
 #textresume p {
 	margin-top: 15px;
+	text-align: justify;
 }
 
 /*GS STORY*/
+#textgss{
+	text-align: justify;
+}
+
 #video{
 	left: 6.25em;
 }
@@ -253,7 +258,7 @@ figure figcaption {
 #qgisimg{
 	width: 32.5em;
 	left: 5.625em;
-	top: 15px;
+	top: 0.875em;
 	position: relative;
 	z-index: 50;
 }
@@ -269,7 +274,7 @@ figure figcaption {
 #bddimg{
 	width: 32.5em;
 	left: 5.625em;
-	top: 15px;
+	top: 0.875em;
 	position: relative;
 	z-index: 40;
 }
@@ -285,7 +290,7 @@ figure figcaption {
 #paoimg{
 	width: 32.5em;
 	left: 5.625em;
-	top: 15px;
+	top: 0.875em;
 	position: relative;
 	z-index: 30;
 }
@@ -301,7 +306,7 @@ figure figcaption {
 #codeimg{
 	width: 32.5em;
 	left: 5.625em;
-	top: 15px;
+	top: 0.875em;
 	position: relative;
 	z-index: 20;
 }
@@ -317,7 +322,7 @@ figure figcaption {
 #englishimg{
 	width: 32.5em;
 	left: 5.625em;
-	top: 15px;
+	top: 0.875em;
 	position: relative;
 	z-index: 10;
 }
@@ -328,6 +333,7 @@ figure figcaption {
 
 .skillstext{
 	position: absolute;
+	text-align: justify;
 	left: 50em;
 	width: 50em;
 	bottom: -100px;
@@ -335,6 +341,7 @@ figure figcaption {
 
 #skillsqgis{
 	position: absolute;
+	text-align: justify;
 	left: 50em;
 	width: 50em;
 	bottom: -100px;

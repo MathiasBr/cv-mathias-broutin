@@ -227,6 +227,7 @@ figure figcaption {
 /*COMPETENCES*/
 #skills{
 	height: 7300px;
+	width: 100%;
 }
 
 #skills p {
@@ -361,6 +362,7 @@ figure figcaption {
 /*EXPERIENCE PRO*/
 #xppro{
 	height: 1700px;
+	width: 100%;
 }
 
 #myBoxXpPro{
@@ -471,7 +473,6 @@ figure figcaption {
 	height: 646px;
 	position: fixed;
 	margin-top: 300px;
-/*	top: 50%;*/
 	left: 25%;
 }
 

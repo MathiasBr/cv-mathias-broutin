@@ -216,7 +216,6 @@ figure figcaption {
 
 /*COMPETENCES*/
 #skills{
-	width: 100%;
 	height: 7300px;
 }
 
@@ -233,7 +232,7 @@ figure figcaption {
 }
 
 #laptopimg{
-	width: 700px;
+	width: 43.75em;
 	position: relative;
 	z-index: 999;
 }
@@ -247,8 +246,8 @@ figure figcaption {
 }
 
 #qgisimg{
-	width: 520px;
-	left: 90px;
+	width: 32.5em;
+	left: 5.625em;
 	top: 15px;
 	position: relative;
 	z-index: 50;
@@ -263,8 +262,8 @@ figure figcaption {
 }
 
 #bddimg{
-	width: 520px;
-	left: 90px;
+	width: 32.5em;
+	left: 5.625em;
 	top: 15px;
 	position: relative;
 	z-index: 40;
@@ -279,8 +278,8 @@ figure figcaption {
 }
 
 #paoimg{
-	width: 520px;
-	left: 90px;
+	width: 32.5em;
+	left: 5.625em;
 	top: 15px;
 	position: relative;
 	z-index: 30;
@@ -295,8 +294,8 @@ figure figcaption {
 }
 
 #codeimg{
-	width: 520px;
-	left: 90px;
+	width: 32.5em;
+	left: 5.625em;
 	top: 15px;
 	position: relative;
 	z-index: 20;
@@ -311,8 +310,8 @@ figure figcaption {
 }
 
 #englishimg{
-	width: 520px;
-	left: 90px;
+	width: 32.5em;
+	left: 5.625em;
 	top: 15px;
 	position: relative;
 	z-index: 10;
@@ -324,15 +323,15 @@ figure figcaption {
 
 .skillstext{
 	position: absolute;
-	left: 800px;
-	width: 800px;
+	left: 50em;
+	width: 50em;
 	bottom: -100px;
 }
 
 #skillsqgis{
 	position: absolute;
-	left: 800px;
-	width: 800px;
+	left: 50em;
+	width: 50em;
 	bottom: -100px;
 }
 

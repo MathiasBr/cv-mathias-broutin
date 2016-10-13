@@ -3,7 +3,6 @@ body {
       font: 400 15px Lato, sans-serif;
       line-height: 1.8;
       color: #818181;
-      overflow-x: hidden;
   }
 
 p {
@@ -381,7 +380,14 @@ figure figcaption {
 /*EXPERIENCE PRO*/
 #xppro{
 	height: 1700px;
-	width: 100%;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+@media screen and (max-width: 1550px)
+{
+	#xppro{
+		height: 1300px;
+	}
 }
 
 #myBoxXpPro{
@@ -421,6 +427,14 @@ figure figcaption {
 	left: 62.5em;
 	z-index: 80;
 }
+@media screen and (max-width: 1550px)
+{
+	#fente1{
+		height: 22em;
+		left: 50em;
+		bottom: -1em;
+	}
+}
 
 #etiquette1{
 	position: relative;
@@ -428,15 +442,30 @@ figure figcaption {
 	left: 50em;
 	bottom: 25em;
 	z-index: 70;
-
+}
+@media screen and (max-width: 1550px)
+{
+	#etiquette1{
+		height: 15em;
+		left: 40em;
+		bottom: 16em;
+	}
 }
 
 #fente2{
 	position: relative;
 	height: 31.25em;
-	left: -25em;
+	left: -30em;
 	bottom: 31.25em;
 	z-index: 100;
+}
+@media screen and (max-width: 1550px)
+{
+	#fente2{
+		height: 22em;
+		bottom: 20.5em;
+		left: -22em;
+	}
 }
 
 #etiquette2{
@@ -445,7 +474,13 @@ figure figcaption {
 	right: 62.5em;
 	bottom: 56.125em;
 	z-index: 90;
-
+}
+@media screen and (max-width: 1550px)
+{
+	#etiquette2{
+		height: 15em;
+		bottom: 37.8em;
+	}
 }
 
 #fente3{
@@ -454,6 +489,14 @@ figure figcaption {
 	left: 62.5em;
 	bottom: 62.5em;
 	z-index: 120;
+}
+@media screen and (max-width: 1550px)
+{
+	#fente3{
+		height: 22em;
+		left: 50em;
+		bottom: 42.2em;
+	}
 }
 
 #etiquette3{
@@ -464,13 +507,29 @@ figure figcaption {
 	z-index: 110;
 
 }
+@media screen and (max-width: 1550px)
+{
+	#etiquette3{
+		height: 15em;
+		left: 40em;
+		bottom: 59.6em;
+	}
+}
 
 #fente4{
 	position: relative;
 	height: 31.25em;
-	left: -25em;
+	left: -30em;
 	bottom: 93.75em;
 	z-index: 140;
+}
+@media screen and (max-width: 1550px)
+{
+	#fente4{
+		height: 22em;
+		bottom: 64em;
+		left: -22em;
+	}
 }
 
 #etiquette4{
@@ -479,7 +538,13 @@ figure figcaption {
 	right: 62.5em;
 	bottom: 118.375em;
 	z-index: 130;
-
+}
+@media screen and (max-width: 1550px)
+{
+	#etiquette4{
+		height: 15em;
+		bottom: 81.4em;
+	}
 }
 
 /*FORMATION*/

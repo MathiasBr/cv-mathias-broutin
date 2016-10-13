@@ -265,6 +265,12 @@ figure figcaption {
 	position: relative;
 	z-index: 999;
 }
+@media screen and (max-width: 1550px)
+{
+	#laptopimg{
+		width: 35em;
+	}
+}
 
 #qgis{
 	position: fixed;
@@ -280,6 +286,14 @@ figure figcaption {
 	top: 0.875em;
 	position: relative;
 	z-index: 50;
+}
+@media screen and (max-width: 1550px)
+{
+	#qgisimg{
+		width: 26em;
+		left: 4.6em;
+		top: 0.59em;
+	}
 }
 
 #bdd{
@@ -297,6 +311,14 @@ figure figcaption {
 	position: relative;
 	z-index: 40;
 }
+@media screen and (max-width: 1550px)
+{
+	#bddimg{
+		width: 26em;
+		left: 4.6em;
+		top: 0.59em;
+	}
+}
 
 #pao{
 	position: fixed;
@@ -312,6 +334,14 @@ figure figcaption {
 	top: 0.875em;
 	position: relative;
 	z-index: 30;
+}
+@media screen and (max-width: 1550px)
+{
+	#paoimg{
+		width: 26em;
+		left: 4.6em;
+		top: 0.59em;
+	}
 }
 
 #code{
@@ -329,6 +359,14 @@ figure figcaption {
 	position: relative;
 	z-index: 20;
 }
+@media screen and (max-width: 1550px)
+{
+	#codeimg{
+		width: 26em;
+		left: 4.6em;
+		top: 0.76em;
+	}
+}
 
 #english{
 	position: fixed;
@@ -345,6 +383,14 @@ figure figcaption {
 	position: relative;
 	z-index: 10;
 }
+@media screen and (max-width: 1550px)
+{
+	#englishimg{
+		width: 26em;
+		left: 4.6em;
+		top: 0.76em;
+	}
+}
 
 #englishtext{
 	bottom: 0px;
@@ -357,6 +403,13 @@ figure figcaption {
 	width: 50em;
 	bottom: -100px;
 }
+@media screen and (max-width: 1550px)
+{
+	.skillstext{
+		left: 40em;
+		width: 40em;
+	}
+}
 
 #skillsqgis{
 	position: absolute;
@@ -364,6 +417,13 @@ figure figcaption {
 	left: 50em;
 	width: 50em;
 	bottom: -100px;
+}
+@media screen and (max-width: 1550px)
+{
+	#skillsqgis{
+		left: 40em;
+		width: 40em;
+	}
 }
 
 .skillstitle{
